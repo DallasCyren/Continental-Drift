@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>Welcome to Volatile Dynasty.</p>
+<p></p>
 `;
 
 /*   STEP 3   */
