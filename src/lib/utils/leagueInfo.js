@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p></p>
+<p>Continental Drift 2025 32-Team Dynasty SF PPR</p>
 `;
 
 /*   STEP 3   */
