@@ -96,5 +96,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">Continental Drift-UNDER CONTRUCTION</h1>
+    <h1 class="noUnderscore">Volatile Best Ball UNDER CONSTRUCTION</h1>
+    
 
+</div>
